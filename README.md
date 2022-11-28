@@ -1,4 +1,3 @@
-# laba
-Nice Project dude
+## Author
 
-## How to start
+[Author](author.md)
